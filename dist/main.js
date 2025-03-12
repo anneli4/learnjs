@@ -1,0 +1,1 @@
+(()=>{"use strict";({hello(){console.log("hello")}}).hello()})();
